@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tinu
+Build-Jdk: 10.0.1
+Implementation-Title: flightreservation1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tinu.flight.reservation
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/flightreservation1
+Created-By: Maven Integration for Eclipse
+
